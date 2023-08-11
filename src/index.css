@@ -1,0 +1,24 @@
+/* .dark {
+  --primary: #31ddac;
+  --background: #0a131d;
+  --white: #ffffff;
+
+  --primary-opaque: #31ddac2b;
+
+  --input-color: #1c2937;
+  --gray-color: #a3bbbf;
+} */
+
+body {
+  margin: 0;
+  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", "Roboto", "Oxygen",
+    "Ubuntu", "Cantarell", "Fira Sans", "Droid Sans", "Helvetica Neue",
+    sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, "Courier New",
+    monospace;
+}

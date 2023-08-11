@@ -1,0 +1,26 @@
+.footer {
+  display: flex;
+  -webkit-box-pack: center;
+  justify-content: center;
+  -webkit-box-align: center;
+  align-items: center;
+  flex-direction: column;
+  height: auto;
+  min-height: 70px;
+  padding: 15px;
+  text-align: center;
+  /* color: var(--primary ); */
+}
+
+.footer {
+  cursor: pointer;
+  text-decoration: none;
+  color: var(--secondary);
+}
+.footer a:hover {
+  color: var(--primary);
+}
+
+.footer i {
+  padding: 0 5px;
+}
