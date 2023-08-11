@@ -44,9 +44,7 @@ function App() {
     setTheme(newTheme);
   };
 
-  useEffect(() => {
-    console.log(theme);
-  }, [theme]);
+  useEffect(() => {}, [theme]);
 
   return (
     <Router>
